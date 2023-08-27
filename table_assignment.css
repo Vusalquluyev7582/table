@@ -1,0 +1,60 @@
+body {
+    background-color:  #00B4DB;
+}
+table {
+   padding: 10px ;
+   border-spacing: 0px;
+}
+th {
+    background-color: #7DBCFD;
+    padding: 30px 20px;
+}
+
+table {
+    margin: 110px 310px;
+}
+td {
+    padding-left: 15px;
+}
+.just {
+    padding: 10px 20px;
+    font-size: 1.3em;
+}
+.in {
+    padding-left: 50px;
+}
+.in:hover {
+    color: #C4D785;
+    font-size: 1.3em;
+} 
+.of:hover {
+    color: #F31642;
+    font-size: 1.3em;
+}
+.red:hover {
+    color: #F31642;
+    font-size: 1.3em;
+}
+.yellow:hover {
+    color: #C4D785;
+    font-size: 1.3 em;
+}
+.just.simple1:hover {
+    color: #F31642;
+}
+.just.simple2:hover {
+    color: #C4D785;
+}
+.iki {
+    padding-left: 30px;
+}
+.col {
+    background-color: #c7bebe;
+}
+.red, .yellow {
+    padding-left: 25px;
+}
+
+
+
+
